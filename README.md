@@ -45,10 +45,11 @@ Creating Pages
 
 ### Built with
 
-- HTML & CSS
-- Bootstrap
 - Python
 - Django's Framework
+- HTML & CSS
+- JavaScript
+- Bootstrap
 
 
 ### What I learned
